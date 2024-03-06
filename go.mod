@@ -1,0 +1,3 @@
+module ZPLANK_WEEK10_ASSIGN
+
+go 1.21.5
